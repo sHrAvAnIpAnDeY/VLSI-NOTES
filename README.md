@@ -1,5 +1,6 @@
 # VLSI-NOTES
 <img width="1389" height="981" alt="img1" src="https://github.com/user-attachments/assets/58efc657-cb09-4013-a09e-05f4d3754c98" />
+
 ## Full-Custom ASIC Design
 
 In Full-Custom ASIC, all the logic cells, circuits, and layouts are designed specifically for that particular ASIC from the ground up. It is chosen **only if**:
