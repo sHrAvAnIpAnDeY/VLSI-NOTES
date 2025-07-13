@@ -65,4 +65,4 @@ In Gate Array-based ASICs:
 
 >  Channel-less gate arrays offer better performance and area efficiency at the cost of increased design complexity.
 
-<img width="1389" height="981" alt="img1" src="https://github.com/user-attachments/assets/Screenshot 2025-07-13 144026.png" />
+<img width="1389" height="981" alt="img2" src="https://github.com/user-attachments/assets/Screenshot 2025-07-13 144026.png" />
